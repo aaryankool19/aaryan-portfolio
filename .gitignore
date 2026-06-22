@@ -1,0 +1,10 @@
+.next/
+node_modules/
+.pnpm-store/
+.vercel/
+out/
+dist/
+.env*
+!.env.example
+*.log
+.DS_Store
