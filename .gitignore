@@ -10,3 +10,4 @@ dist/
 .DS_Store
 tsconfig.tsbuildinfo
 Aaryan_Master copy.pdf
+.vercel
