@@ -42,7 +42,7 @@ Note: this repo currently includes `pnpm-lock.yaml`, so Vercel may use pnpm auto
 The resume download button points to:
 
 ```text
-public/Aaryan_Kulkarni_Resume.pdf
+public/Aaryan_Master.pdf
 ```
 
 To update the resume, replace that file with a newer PDF using the same filename.
@@ -55,7 +55,7 @@ Email and phone are configured in:
 lib/portfolio-data.ts
 ```
 
-GitHub and LinkedIn are intentionally left as placeholders until the exact profile URLs are added. Update `profileLinks.github` and `profileLinks.linkedin` in `lib/portfolio-data.ts`.
+GitHub and LinkedIn are configured in `lib/portfolio-data.ts`.
 
 ## Deploy On Vercel For Free
 

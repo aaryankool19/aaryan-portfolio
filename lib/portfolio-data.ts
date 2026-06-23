@@ -20,12 +20,12 @@ export type SkillGroup = {
 export const profileLinks = {
   email: "akulkarni456@gatech.edu",
   phone: "470-586-2849",
-  github: "",
-  linkedin: ""
+  github: "https://github.com/aaryankool19",
+  linkedin: "https://www.linkedin.com/in/aaryan-kulkarn1"
 };
 
 export const socialLinks = [
-  { label: "Resume", href: "/Aaryan_Kulkarni_Resume.pdf", download: true },
+  { label: "Resume", href: "/Aaryan_Master.pdf", download: true },
   { label: profileLinks.github ? "GitHub" : "GitHub (add URL)", href: profileLinks.github || "#contact" },
   { label: profileLinks.linkedin ? "LinkedIn" : "LinkedIn (add URL)", href: profileLinks.linkedin || "#contact" },
   { label: "Contact", href: `mailto:${profileLinks.email}` }

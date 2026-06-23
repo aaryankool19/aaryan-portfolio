@@ -147,7 +147,7 @@ export default function Home() {
             </p>
           </div>
           <a
-            href="/Aaryan_Kulkarni_Resume.pdf"
+            href="/Aaryan_Master.pdf"
             download
             className="inline-flex justify-center rounded-md bg-signal px-6 py-3 text-sm font-bold text-graphite transition hover:-translate-y-0.5 hover:bg-white"
           >
